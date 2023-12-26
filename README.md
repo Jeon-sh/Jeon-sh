@@ -1,16 +1,13 @@
-### Hi there 👋
+# 전승혜 (Jeon seung-hye)
 
-<!--
-**Jeon-sh/Jeon-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 3. MBTI
 
-Here are some ideas to get you started:
+    ENFJ(선도자, 언변능숙형)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 4. 전공
+
+    - 경영학부(본전공)
+
+    - 소프트웨어학부(복수전공)
+
+### Github  정리중 ✨
